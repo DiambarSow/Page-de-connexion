@@ -1,0 +1,29 @@
+body{
+  background-image: url("../diambar.jpg");
+    
+}
+fieldset{
+   color: rgb(245, 237, 237);
+   border-radius: 40px;
+   border: solid 60px ;
+   border-color: rgb(126, 3, 30);
+   margin-left: 530px;
+   margin-right: 530px;
+   box-shadow: 50px;
+   width: 3%;
+   
+}
+
+label{
+    text-align: right;
+}
+
+h1{
+    color: rgb(243, 229, 229);
+    text-align: center;
+      
+}
+.submit{
+   margin-top: 5px;
+   
+}
